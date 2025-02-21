@@ -36,7 +36,7 @@
 Vellore Institute of Technology (2021 – 2025)
 
 ## 💼 Experience
-**Software Engineering Intern** @ Skii.ai (Oct 2023 – Nov 2023)  
+**Software Engineering Intern** @ Skit.ai (Oct 2023 – Nov 2023)  
 - Optimized app performance & built REST APIs handling 500+ daily requests  
 - Collaborated on AI-powered conversational solutions  
 
