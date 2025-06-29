@@ -40,9 +40,6 @@ Vellore Institute of Technology (2021 – 2025)
 - Optimized app performance & built REST APIs handling 500+ daily requests  
 - Collaborated on AI-powered conversational solutions  
 
-**Data Analytics Intern** @ Netlink (Oct 2024 – Dec 2024)  
-- Developed ML models improving forecast accuracy by 25%  
-- Conducted EDA on large datasets to identify trends  
 
 **Backend Developer Intern** @ CodesOnBytes (Nov 2023 – Dec 2023)  
 - Designed Python-based optimization challenges improving code coverage by 40%  
