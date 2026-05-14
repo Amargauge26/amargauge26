@@ -1,3 +1,9 @@
+# Hi there, I'm Ayush (Amar Deep Singh) 👋
+
+I'm a **Business Intelligence Analyst** working in the pharmaceutical technology sector, based out of Bengaluru. I am passionate about data, machine learning, and building AI-driven solutions—currently diving deep into Retrieval-Augmented Generation (RAG) systems, AI Agents, and configuring local LLM frameworks.
+
+When I'm not writing code or analyzing data, you can find me at the gym tracking my macros, learning to play the guitar, or catching up on the latest IPL matches.
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Amar_ds26)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amar0755)
@@ -16,6 +22,7 @@
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 # 📊 GitHub Stats:
@@ -31,36 +38,42 @@
 
 # 📄 Resume Highlights
 
+## 💼 Experience
+**Business Intelligence Analyst** @ Pharma Tech Sector (April 2025 – Present)
+- Driving data intelligence and analytics within the pharmaceutical technology space.
+- Transforming complex datasets into actionable insights to support business decisions.
+
+**Software Engineering Intern** @ Skit.ai (Oct 2023 – Nov 2023)  
+- Optimized app performance & built REST APIs handling 500+ daily requests.  
+- Collaborated on AI-powered conversational solutions.  
+
+**Backend Developer Intern** @ CodesOnBytes (Nov 2023 – Dec 2023)  
+- Designed Python-based optimization challenges improving code coverage by 40%.  
+
 ## 🎓 Education
 **Bachelor of Technology in Computer Science Engineering**  
 Vellore Institute of Technology (2021 – 2025)
 
-## 💼 Experience
-**Software Engineering Intern** @ Skit.ai (Oct 2023 – Nov 2023)  
-- Optimized app performance & built REST APIs handling 500+ daily requests  
-- Collaborated on AI-powered conversational solutions  
-
-
-**Backend Developer Intern** @ CodesOnBytes (Nov 2023 – Dec 2023)  
-- Designed Python-based optimization challenges improving code coverage by 40%  
-
 ## 🚀 Projects
+**RAG-Based Email Automation System** | Local LLMs, Python
+- Developed an automated email processing system leveraging Retrieval-Augmented Generation (RAG) components and local LLM frameworks.
+
+**Behavioral Safety & Risk Analysis App** | ML, Python
+- Built an application to assess safety levels and risk behavior related to alcohol consumption, implementing robust app logic and deployment pipelines.
+
 **Log Analysis Tool** | Python, Pandas  
-- Analyzed server logs with 90% accuracy in error detection  
+- Analyzed server logs with 90% accuracy in error detection.  
 
 **AI Text Summarizer** | Flask, NLTK  
-- Built web tool for document summarization using NLP  
+- Built web tool for document summarization using NLP.  
 
 **Traffic Analytics System** | OpenCV, YOLOv8  
-- Real-time vehicle detection system for congestion analysis  
-
-**Game Analytics Platform** | Pygame, SQLite  
-- Tracked player metrics with integrated analytics  
+- Real-time vehicle detection system for congestion analysis.  
 
 ## 🔧 Skills
 **Languages:** Python, SQL, R, Java, C  
-**Data Tools:** Pandas, NumPy, Scikit-Learn, Spark  
-**ML:** Regression, Classification, Time Series Analysis  
+**Data & ML Tools:** Pandas, NumPy, Scikit-Learn, Spark, TensorFlow, OpenCV  
+**AI & Advanced Tech:** RAG Systems, AI Agents, Local LLMs (Ollama, Claude Code), Nvidia APIs  
 **Frameworks:** Django, Flask  
-**Databases:** MySQL  
-**Tools:** Git, Tableau, Power BI  
+**Databases:** PostgreSQL, MySQL  
+**Tools:** Git, Tableau, Power BI
