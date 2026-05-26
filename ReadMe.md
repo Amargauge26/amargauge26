@@ -1,4 +1,4 @@
-# Hi there, I'm Ayush (Amar Deep Singh) 👋
+# Hi there, I'm AMar (Amar Deep Singh) 👋
 
 I'm a **Business Intelligence Analyst** working in the pharmaceutical technology sector, based out of Bengaluru. I am passionate about data, machine learning, and building AI-driven solutions—currently diving deep into Retrieval-Augmented Generation (RAG) systems, AI Agents, and configuring local LLM frameworks.
 
